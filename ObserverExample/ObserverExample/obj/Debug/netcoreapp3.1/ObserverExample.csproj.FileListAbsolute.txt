@@ -1,0 +1,14 @@
+C:\Users\jfdac\source\repos\ObserverExample\ObserverExample\bin\Debug\netcoreapp3.1\ObserverExample.exe
+C:\Users\jfdac\source\repos\ObserverExample\ObserverExample\bin\Debug\netcoreapp3.1\ObserverExample.deps.json
+C:\Users\jfdac\source\repos\ObserverExample\ObserverExample\bin\Debug\netcoreapp3.1\ObserverExample.runtimeconfig.json
+C:\Users\jfdac\source\repos\ObserverExample\ObserverExample\bin\Debug\netcoreapp3.1\ObserverExample.runtimeconfig.dev.json
+C:\Users\jfdac\source\repos\ObserverExample\ObserverExample\bin\Debug\netcoreapp3.1\ObserverExample.dll
+C:\Users\jfdac\source\repos\ObserverExample\ObserverExample\bin\Debug\netcoreapp3.1\ObserverExample.pdb
+C:\Users\jfdac\source\repos\ObserverExample\ObserverExample\obj\Debug\netcoreapp3.1\ObserverExample.csproj.AssemblyReference.cache
+C:\Users\jfdac\source\repos\ObserverExample\ObserverExample\obj\Debug\netcoreapp3.1\ObserverExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jfdac\source\repos\ObserverExample\ObserverExample\obj\Debug\netcoreapp3.1\ObserverExample.AssemblyInfoInputs.cache
+C:\Users\jfdac\source\repos\ObserverExample\ObserverExample\obj\Debug\netcoreapp3.1\ObserverExample.AssemblyInfo.cs
+C:\Users\jfdac\source\repos\ObserverExample\ObserverExample\obj\Debug\netcoreapp3.1\ObserverExample.csproj.CoreCompileInputs.cache
+C:\Users\jfdac\source\repos\ObserverExample\ObserverExample\obj\Debug\netcoreapp3.1\ObserverExample.dll
+C:\Users\jfdac\source\repos\ObserverExample\ObserverExample\obj\Debug\netcoreapp3.1\ObserverExample.pdb
+C:\Users\jfdac\source\repos\ObserverExample\ObserverExample\obj\Debug\netcoreapp3.1\ObserverExample.genruntimeconfig.cache
